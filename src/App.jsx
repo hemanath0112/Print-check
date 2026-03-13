@@ -95,14 +95,14 @@ function App() {
             Print Label
           </button>
 
-          <div className="info-box">
+          {/* <div className="info-box">
             <strong><Info size={16} style={{ display: 'inline', verticalAlign: 'middle', marginRight: '4px' }} /> Setup Instructions:</strong>
             1. Ensure your Zebra ZD220 is installed with the ZDesigner Driver. <br/>
             2. Click "Print Label" above.<br/>
             3. In the browser print dialog, select the <b>ZDesigner ZD220-203dpi</b> printer.<br/>
             4. Ensure Paper Size is set to <b>100mm x 150mm</b> (or 4" x 6").<br/>
             5. Margins must be set to <i>None</i> and Scaling to <i>Default</i>.
-          </div>
+          </div> */}
         </section>
 
         <section className="preview-panel">
